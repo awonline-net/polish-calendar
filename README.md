@@ -1,3 +1,3 @@
 # polish-calendar
 
-md file description is required
+Polish non-working days suite for the aw-calendar library
