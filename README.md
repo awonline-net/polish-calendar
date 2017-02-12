@@ -1,4 +1,3 @@
 # polish-calendar
 
-Polish non-working days suite for the aw-calendar library[abc]
-def
+Polish non-working days suite for the aw-calendar library
