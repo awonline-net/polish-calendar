@@ -32,7 +32,7 @@
 		<dependency>
 			<groupId>net.awonline</groupId>
 			<artifactId>aw-calendar</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
